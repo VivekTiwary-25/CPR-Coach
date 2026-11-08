@@ -1,0 +1,92 @@
+[
+  {
+    "code": "mr",
+    "key": "lang_name",
+    "text": "मराठी",
+    "sha256": "4b76a6025425f06bde7741df95819d2f89245ccaf6fedc36734d1301323444ef"
+  },
+  {
+    "code": "mr",
+    "key": "countdown",
+    "text": "सुरू करत आहोत तीन, दोन, एक",
+    "sha256": "907fc16f1e8ecd14b6876e5f6b630fab14ed3e081bf71717762027eac6fe1a9f"
+  },
+  {
+    "code": "mr",
+    "key": "push_faster",
+    "text": "छाती अजून वेगाने दाबा",
+    "sha256": "1151efbfa6279ec7f7466c016b57f723bcfc0932e2ae54082f7d2dad58240f82"
+  },
+  {
+    "code": "mr",
+    "key": "slow_down",
+    "text": "छाती दाबण्याचा वेग कमी करा",
+    "sha256": "07ca76a0a8f5ce86e8c5f04f13497b4b9ea15a28572f8f10a6f048a956a7cbd6"
+  },
+  {
+    "code": "mr",
+    "key": "elbows_straight",
+    "text": "कोपर सरळ ठेवा",
+    "sha256": "e8e5c8901ceabb1e448df2df606d22013878dc6db0a6b8c5c79094054d44546b"
+  },
+  {
+    "code": "mr",
+    "key": "keep_going",
+    "text": "छाती दाबत राहा",
+    "sha256": "da61ec9520ade8f975e8bcd25ae9d6ae4e2676c6c51749d71e9c3b6b26c361dd"
+  },
+  {
+    "code": "mr",
+    "key": "good",
+    "text": "छान. छाती दाबत राहा.",
+    "sha256": "ebd9b1492efae2ec2cee39dfc24305c76aca6a147403a3f7f5bd5962ad13dff5"
+  },
+  {
+    "code": "mr",
+    "key": "session_done",
+    "text": "खूप छान, सराव पूर्ण झाला",
+    "sha256": "cfe2e031c370a0e64fa15ee6d9356b7d5a94248777640e91bbfda6b4c04fc340"
+  },
+  {
+    "code": "mr",
+    "key": "em_call",
+    "text": "एक एक दोन वर कॉल करा. फोन स्पीकरवर ठेवा.",
+    "sha256": "35a5607f2151a66adf35dfe7f3d020e4a80542a2ef8adff1c92783aa8578bf60"
+  },
+  {
+    "code": "mr",
+    "key": "em_hands",
+    "text": "छातीच्या मध्यभागी हात ठेवा.",
+    "sha256": "76ed4138a9ec89373f594d8b3082ab4408b47e78ac197b7e474c30093450606d"
+  },
+  {
+    "code": "mr",
+    "key": "em_push",
+    "text": "तालासोबत छाती जोरात आणि वेगाने दाबा.",
+    "sha256": "c4ee7b9ce5c25ad537bb466d45250cb34d225db22e29d0ce769e74d76748798b"
+  },
+  {
+    "code": "mr",
+    "key": "em_swap",
+    "text": "दुसरे कोणी छाती दाबू शकत असेल, तर आता पाळी बदला.",
+    "sha256": "dccae14c901f5022b7f47f9baa382b04720a47f0897499a70fdf3ab0f12db685"
+  },
+  {
+    "code": "mr",
+    "key": "em_aed",
+    "text": "जवळ ए ई डी असेल, तर कोणालातरी आणायला सांगा.",
+    "sha256": "596fca04651f5c943eca11b0c3a4b250a697a6f5a035c6b540d7d5836e1b5cc4"
+  },
+  {
+    "code": "mr",
+    "key": "em_continue",
+    "text": "मदत येईपर्यंत छाती दाबत राहा.",
+    "sha256": "c32f492b57789a80b12ed35075b914782a7a8c7974ae8e25bd64f4f476ef4781"
+  },
+  {
+    "code": "mr",
+    "key": "shoulders_over_hands",
+    "text": "खांदे हातांच्या अगदी वर ठेवा",
+    "sha256": "1663ae38d6e987d51372a7094fe7f160c31de7dd8f2884d692ec27223c537784"
+  }
+]

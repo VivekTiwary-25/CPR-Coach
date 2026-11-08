@@ -1,0 +1,92 @@
+[
+  {
+    "code": "ta",
+    "key": "lang_name",
+    "text": "தமிழ்",
+    "sha256": "540a59cf6fd8508ba43aa077a3128e234b5c486a919eabd6d8c05b9930bf2487"
+  },
+  {
+    "code": "ta",
+    "key": "countdown",
+    "text": "மூன்று, இரண்டு, ஒன்று, தொடங்கலாம்",
+    "sha256": "6cfcf1a1f638171adaf808ef7a309f6fe5f1d16be25f5783d9bce47dce14da64"
+  },
+  {
+    "code": "ta",
+    "key": "push_faster",
+    "text": "மார்பை இன்னும் வேகமாக அழுத்துங்கள்",
+    "sha256": "f6efaadf36ed747cc733667a6fae31a6c77b151bf8c6a25d955b8e2c4fa38dfc"
+  },
+  {
+    "code": "ta",
+    "key": "slow_down",
+    "text": "மார்பை அழுத்தும் வேகத்தைக் குறையுங்கள்",
+    "sha256": "6d3080c0c6d2e4fe386e3043ab0994656608bf11715d62fd05b92544620383e7"
+  },
+  {
+    "code": "ta",
+    "key": "elbows_straight",
+    "text": "முழங்கையை நேராக வையுங்கள்",
+    "sha256": "5b2157a270201a59f1a26084db6dcc3c01ddd5d584ea6146dc3f6f3b39684854"
+  },
+  {
+    "code": "ta",
+    "key": "keep_going",
+    "text": "மார்பைத் தொடர்ந்து அழுத்துங்கள்",
+    "sha256": "7834f00389dd9189074d5362cfc1bb0fb6def038bbf421c2aeb5aac8625464a0"
+  },
+  {
+    "code": "ta",
+    "key": "good",
+    "text": "நன்று. மார்பைத் தொடர்ந்து அழுத்துங்கள்.",
+    "sha256": "5cbb6b42a624392238536c405f851ed748531d523de027abf6d58d8fbef5998e"
+  },
+  {
+    "code": "ta",
+    "key": "session_done",
+    "text": "சிறப்பு, பயிற்சி முடிந்தது",
+    "sha256": "737deff1eedea33e8c1e05ba3b9a1115706d3935dd8edf73321856dbe6848acf"
+  },
+  {
+    "code": "ta",
+    "key": "em_call",
+    "text": "ஒன்று ஒன்று இரண்டுக்கு அழைக்கவும். ஸ்பீக்கரில் போடுங்கள்.",
+    "sha256": "f12c5845a92119c5388dd022d5c492d759ec01c641b6f4e10457e9b2ced8a673"
+  },
+  {
+    "code": "ta",
+    "key": "em_hands",
+    "text": "மார்பின் நடுவில் கைகளை வையுங்கள்.",
+    "sha256": "11eefcabbfcab87325f4f10ffada36166f690e53f35ac7a1b7df91003a27c1dc"
+  },
+  {
+    "code": "ta",
+    "key": "em_push",
+    "text": "தாளத்தோடு மார்பை வேகமாகவும் பலமாகவும் அழுத்துங்கள்.",
+    "sha256": "2690e1e80407f15687e5897edef87474056fd737343ffdfb3203824bb0bf1450"
+  },
+  {
+    "code": "ta",
+    "key": "em_swap",
+    "text": "வேறு யாராவது மார்பை அழுத்த முடிந்தால், இப்போது மாறிக்கொள்ளுங்கள்.",
+    "sha256": "bfc36e45d51b9767f86d41dd4625f57513ea83d9424bc51516cf79461b7016c3"
+  },
+  {
+    "code": "ta",
+    "key": "em_aed",
+    "text": "அருகில் ஏ இ டி இருந்தால், யாரையாவது எடுத்து வரச் சொல்லுங்கள்.",
+    "sha256": "daf205bbb515a04052109a0992ca4061da5537c0e0618ca8b349fc2ced8fbed0"
+  },
+  {
+    "code": "ta",
+    "key": "em_continue",
+    "text": "உதவி வரும் வரை மார்பைத் தொடர்ந்து அழுத்துங்கள்.",
+    "sha256": "96b9de8f27ce23708b33ddc231b74e53cbb994bef9816d004ee083f0b0b238e7"
+  },
+  {
+    "code": "ta",
+    "key": "shoulders_over_hands",
+    "text": "தோள்களை கைகளுக்கு நேர் மேலே வையுங்கள்",
+    "sha256": "20d90c696cc37ec388b71f3a81a55b84a90ddc525048232d75233c7a8d7a8fd8"
+  }
+]

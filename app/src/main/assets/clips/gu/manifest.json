@@ -1,0 +1,92 @@
+[
+  {
+    "code": "gu",
+    "key": "lang_name",
+    "text": "ગુજરાતી",
+    "sha256": "93febe6cac08ea94884b6c32e012a39a89d856197719756903bb71755d3d76e9"
+  },
+  {
+    "code": "gu",
+    "key": "countdown",
+    "text": "શરૂ કરીએ છીએ ત્રણ, બે, એક",
+    "sha256": "1d98c59e06c3855370bfe48bcf877e040e4c551852f3170da8c856a85af71c5c"
+  },
+  {
+    "code": "gu",
+    "key": "push_faster",
+    "text": "છાતી વધુ ઝડપથી દબાવો",
+    "sha256": "a929cf25f968ccd6e21cbfbc60a5d9b9aa5e75919d603d1bd7285521a101bc27"
+  },
+  {
+    "code": "gu",
+    "key": "slow_down",
+    "text": "છાતી દબાવવાની ઝડપ ઓછી કરો",
+    "sha256": "373f93f4e66863d52822f8f25d552a615869c5a06da2e4f52caa24aea3b952bb"
+  },
+  {
+    "code": "gu",
+    "key": "elbows_straight",
+    "text": "કોણી સીધી રાખો",
+    "sha256": "dd4e49bdae0be98efe1cda56e395adebbfd0feea1b49526b490d4828af7c1476"
+  },
+  {
+    "code": "gu",
+    "key": "keep_going",
+    "text": "છાતી દબાવતા રહો",
+    "sha256": "3f3887b0071934a8f37c5353e84bfd12c95721b274a441ae9a80dddc28b04e76"
+  },
+  {
+    "code": "gu",
+    "key": "good",
+    "text": "સરસ. છાતી દબાવતા રહો.",
+    "sha256": "56d230ee06303d04fd2bf33bd04579ae6b90c97a75fe87c8381c0c0f0950ca6a"
+  },
+  {
+    "code": "gu",
+    "key": "session_done",
+    "text": "ખૂબ સરસ, પ્રેક્ટિસ પૂરી થઈ",
+    "sha256": "544216265a0e451115cb3972442a723dfd6e6aa5f14f25212ce4b50db7c33081"
+  },
+  {
+    "code": "gu",
+    "key": "em_call",
+    "text": "એક એક બે પર કોલ કરો. ફોન સ્પીકર પર મૂકો.",
+    "sha256": "6f41b68fce66183a4257b15de014c3feb992eb233c890d7e6981dc727e7bce81"
+  },
+  {
+    "code": "gu",
+    "key": "em_hands",
+    "text": "છાતીની વચ્ચે હાથ મૂકો.",
+    "sha256": "a182dc5a3653f3b817c76e6121c8613c7e34b45ca95b4a302559ca672143fd82"
+  },
+  {
+    "code": "gu",
+    "key": "em_push",
+    "text": "તાલ સાથે છાતી જોરથી અને ઝડપથી દબાવો.",
+    "sha256": "f1498a3dcf0f204d8ad76b4944ad288d5315ce4b8122db027d036ca5aeac7423"
+  },
+  {
+    "code": "gu",
+    "key": "em_swap",
+    "text": "જો બીજું કોઈ છાતી દબાવી શકે, તો અત્યારે વારો બદલો.",
+    "sha256": "2240cacd1246864f18b1b6e6c425a3a0de830c5437cc7d7d7b133e2d76324903"
+  },
+  {
+    "code": "gu",
+    "key": "em_aed",
+    "text": "જો નજીકમાં એ ઈ ડી હોય, તો કોઈને લાવવા કહો.",
+    "sha256": "8ab4f68735b88c76c9450ca613ad9914e2830e5dec4a939a7141aa99136df213"
+  },
+  {
+    "code": "gu",
+    "key": "em_continue",
+    "text": "મદદ આવે ત્યાં સુધી છાતી દબાવતા રહો.",
+    "sha256": "43ce66b831bae5cfdd5b8d33f1e60b9b87f319098d15b16332e98bafbed39928"
+  },
+  {
+    "code": "gu",
+    "key": "shoulders_over_hands",
+    "text": "ખભા હાથની બરાબર ઉપર રાખો",
+    "sha256": "d86519b7ce0c8e8cab7b254d8ffe2b5342d7b2d4095aa4b7f9c88130a896b13d"
+  }
+]

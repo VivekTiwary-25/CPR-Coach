@@ -1,0 +1,92 @@
+[
+  {
+    "code": "kn",
+    "key": "lang_name",
+    "text": "ಕನ್ನಡ",
+    "sha256": "93cce92606560be2c806b1ed222e0d177f5f90969c5369216372dbfb3dfaae1a"
+  },
+  {
+    "code": "kn",
+    "key": "countdown",
+    "text": "ಸಿದ್ಧರಾಗಿ. ಮೂರು, ಎರಡು, ಒಂದು.",
+    "sha256": "fe823b6368b4ed5d3761c6d892fd4bf67b24c7dbf164d384f44dcafbafc222b2"
+  },
+  {
+    "code": "kn",
+    "key": "push_faster",
+    "text": "ಎದೆಯನ್ನು ಇನ್ನಷ್ಟು ವೇಗವಾಗಿ ಒತ್ತಿ.",
+    "sha256": "8a6419bf553c6171b47c7118bc690759fea337aa66664250f57b7b076db74a98"
+  },
+  {
+    "code": "kn",
+    "key": "slow_down",
+    "text": "ಎದೆ ಒತ್ತುವ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡಿ.",
+    "sha256": "fa0ea9459d0608adcd75b92e0b683bf9ccdb7783900932ee1bef9b06c7f73255"
+  },
+  {
+    "code": "kn",
+    "key": "elbows_straight",
+    "text": "ಎರಡೂ ಮೊಣಕೈಗಳನ್ನು ನೇರವಾಗಿ ಇಡಿ.",
+    "sha256": "a60d4dd7dd00eef59d776a03b57f6f9b2b85b8a9c8f64031f7a1063043abd465"
+  },
+  {
+    "code": "kn",
+    "key": "keep_going",
+    "text": "ಎದೆಯನ್ನು ಒತ್ತುತ್ತಿರಿ.",
+    "sha256": "57f929b80e46eb5575ceee51f9fd2a01011e33272d5d737553cdb535c398f3ee"
+  },
+  {
+    "code": "kn",
+    "key": "good",
+    "text": "ಚೆನ್ನಾಗಿದೆ. ಎದೆಯನ್ನು ಒತ್ತುತ್ತಿರಿ.",
+    "sha256": "a18902c77dd40bf836bc158bc90536bc3826ac85679e4037bc1486feffcd2de8"
+  },
+  {
+    "code": "kn",
+    "key": "session_done",
+    "text": "ಚೆನ್ನಾಗಿ ಮಾಡಿದಿರಿ. ನಿಮ್ಮ ಅಭ್ಯಾಸ ಮುಗಿದಿದೆ.",
+    "sha256": "cd01b7e11eabd324ec01a0a77145f0f1946658e5571770383d3b6757ce53aef5"
+  },
+  {
+    "code": "kn",
+    "key": "em_call",
+    "text": "ಒಂದು ಒಂದು ಎರಡು ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡಿ. ಫೋನಿನ ಸ್ಪೀಕರ್ ಆನ್ ಮಾಡಿ.",
+    "sha256": "8ffc211a0de298d8a360adbf982b403a9315a7a2f01c29f008293df109f8ac69"
+  },
+  {
+    "code": "kn",
+    "key": "em_hands",
+    "text": "ನಿಮ್ಮ ಎರಡೂ ಕೈಗಳನ್ನು ಎದೆಯ ಮಧ್ಯದಲ್ಲಿ ಇಡಿ.",
+    "sha256": "4024cfa8c1d00f727828ddce469bb1bb638de51942407d58b178e5d0b9dd7099"
+  },
+  {
+    "code": "kn",
+    "key": "em_push",
+    "text": "ತಾಳಕ್ಕೆ ತಕ್ಕಂತೆ ಎದೆಯನ್ನು ಬಲವಾಗಿ ಮತ್ತು ವೇಗವಾಗಿ ಒತ್ತಿ.",
+    "sha256": "51d254a70fa4b38461f1bf9d717c5fbc010cec8975a74a2ce73103a0ebc1a113"
+  },
+  {
+    "code": "kn",
+    "key": "em_swap",
+    "text": "ಬೇರೆಯವರು ಎದೆ ಒತ್ತಲು ಸಿದ್ಧರಿದ್ದರೆ, ಈಗ ಸರದಿ ಬದಲಿಸಿ.",
+    "sha256": "0ee329f853045cecd28182990a337b4db45b7b20c02c92eff7b9dee87dce5857"
+  },
+  {
+    "code": "kn",
+    "key": "em_aed",
+    "text": "ಹತ್ತಿರ ಏ ಈ ಡಿ ಯಂತ್ರ ಇದ್ದರೆ, ಯಾರನ್ನಾದರೂ ತರಲು ಹೇಳಿ.",
+    "sha256": "f92792cc4ada2113c383f2bd460a3854cd0622763477258ec294a0a01c101599"
+  },
+  {
+    "code": "kn",
+    "key": "em_continue",
+    "text": "ಸಹಾಯ ಬರುವವರೆಗೂ ಎದೆಯನ್ನು ಒತ್ತುತ್ತಿರಿ.",
+    "sha256": "e19aef843afb64d0abd326e66533cd62b89aa044cf4481c37a1ee6e1f80f3f45"
+  },
+  {
+    "code": "kn",
+    "key": "shoulders_over_hands",
+    "text": "ಭುಜಗಳು ಕೈಗಳ ನೇರ ಮೇಲೆ ಇರಲಿ.",
+    "sha256": "042fcbc68b3a3621b29e0b38353c12bc14957486c9be4e64933e3660b781dd8a"
+  }
+]
